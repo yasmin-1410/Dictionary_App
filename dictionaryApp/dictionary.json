@@ -1,0 +1,26 @@
+{
+  "book": {
+    "Word": "book",
+    "Definition": "electro"
+  },
+  "child": {
+    "Word": "child",
+    "Definition": "baby"
+  },
+  "elephant": {
+    "Word": "elephant",
+    "Definition": "big animal"
+  },
+  "notebook": {
+    "Word": "notebook",
+    "Definition": "notebook"
+  },
+  "test": {
+    "Word": "test",
+    "Definition": "test22"
+  },
+  "try": {
+    "Word": "try",
+    "Definition": "test"
+  }
+}

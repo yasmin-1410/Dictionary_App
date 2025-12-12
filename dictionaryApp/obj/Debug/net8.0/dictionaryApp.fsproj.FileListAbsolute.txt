@@ -1,0 +1,13 @@
+D:\pl3_Project\dictionaryApp\bin\Debug\net8.0\dictionaryApp.deps.json
+D:\pl3_Project\dictionaryApp\bin\Debug\net8.0\dictionaryApp.dll
+D:\pl3_Project\dictionaryApp\bin\Debug\net8.0\dictionaryApp.pdb
+D:\pl3_Project\dictionaryApp\bin\Debug\net8.0\dictionaryApp.xml
+D:\pl3_Project\dictionaryApp\obj\Debug\net8.0\dictionaryApp.fsproj.AssemblyReference.cache
+D:\pl3_Project\dictionaryApp\obj\Debug\net8.0\dictionaryApp.AssemblyInfoInputs.cache
+D:\pl3_Project\dictionaryApp\obj\Debug\net8.0\dictionaryApp.AssemblyInfo.fs
+D:\pl3_Project\dictionaryApp\obj\Debug\net8.0\dictionaryApp.fsproj.CoreCompileInputs.cache
+D:\pl3_Project\dictionaryApp\obj\Debug\net8.0\dictionaryApp.dll
+D:\pl3_Project\dictionaryApp\obj\Debug\net8.0\refint\dictionaryApp.dll
+D:\pl3_Project\dictionaryApp\obj\Debug\net8.0\dictionaryApp.xml
+D:\pl3_Project\dictionaryApp\obj\Debug\net8.0\dictionaryApp.pdb
+D:\pl3_Project\dictionaryApp\obj\Debug\net8.0\ref\dictionaryApp.dll
