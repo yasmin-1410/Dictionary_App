@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+     <compile Include="wordModel.fs"/>
+     <Compile Include="UserRoles.fs" />
+     <Compile Include="FileIO.fs" />
+    <Compile Include="CRUD.fs" />
+    <compile Include="Lemmatizer.fs"/>
+    <Compile Include="SearchModule.fs" />
+    <Compile Include="Library.fs" />
+  </ItemGroup>
+
+</Project>

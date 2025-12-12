@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YF7ezVb758A=",
+  "success": true,
+  "projectFilePath": "D:\\pl3_Project\\dictionaryApp\\dictionaryApp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DEll\\.nuget\\packages\\fsharp.core\\8.0.403\\fsharp.core.8.0.403.nupkg.sha512"
+  ],
+  "logs": []
+}
