@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Vi5EmR+1LPk=",
+  "dgSpecHash": "Jgmw3RCGjRk=",
   "success": true,
-  "projectFilePath": "D:\\pl3_Project\\ui_showall\\dictapp.fsproj",
+  "projectFilePath": "C:\\Users\\DELL\\OneDrive\\Desktop\\Dictionary_App\\ui_showall\\dictapp.fsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DEll\\.nuget\\packages\\fsharp.core\\8.0.403\\fsharp.core.8.0.403.nupkg.sha512"
+    "C:\\Users\\DELL\\.nuget\\packages\\fsharp.core\\10.0.100\\fsharp.core.10.0.100.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
   ],
   "logs": []
 }

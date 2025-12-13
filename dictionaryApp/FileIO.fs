@@ -21,7 +21,7 @@ open System
 open System.IO
 open System.Text.Json
 open wordModel
-let filePath = "D:\\pl3_Project\\dictionaryApp\\dictionary.json"
+let filePath = "C:\\Users\\DELL\\OneDrive\\Desktop\\Dictionary_App\\dictionaryApp\\dictionary.json"
 
 let readDictionary () =
     try

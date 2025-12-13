@@ -11,3 +11,17 @@ D:\pl3_Project\dictionaryApp\obj\Debug\net8.0\refint\dictionaryApp.dll
 D:\pl3_Project\dictionaryApp\obj\Debug\net8.0\dictionaryApp.xml
 D:\pl3_Project\dictionaryApp\obj\Debug\net8.0\dictionaryApp.pdb
 D:\pl3_Project\dictionaryApp\obj\Debug\net8.0\ref\dictionaryApp.dll
+C:\Users\DELL\OneDrive\Desktop\Dictionary_App\dictionaryApp\bin\Debug\net8.0\dictionaryApp.deps.json
+C:\Users\DELL\OneDrive\Desktop\Dictionary_App\dictionaryApp\bin\Debug\net8.0\dictionaryApp.dll
+C:\Users\DELL\OneDrive\Desktop\Dictionary_App\dictionaryApp\bin\Debug\net8.0\dictionaryApp.pdb
+C:\Users\DELL\OneDrive\Desktop\Dictionary_App\dictionaryApp\bin\Debug\net8.0\dictionaryApp.xml
+C:\Users\DELL\OneDrive\Desktop\Dictionary_App\dictionaryApp\obj\Debug\net8.0\dictionaryApp.fsproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Dictionary_App\dictionaryApp\obj\Debug\net8.0\dictionaryApp.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Dictionary_App\dictionaryApp\obj\Debug\net8.0\dictionaryApp.AssemblyInfo.fs
+C:\Users\DELL\OneDrive\Desktop\Dictionary_App\dictionaryApp\obj\Debug\net8.0\dictionaryApp.fsproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Dictionary_App\dictionaryApp\obj\Debug\net8.0\dictionaryApp.sourcelink.json
+C:\Users\DELL\OneDrive\Desktop\Dictionary_App\dictionaryApp\obj\Debug\net8.0\dictionaryApp.dll
+C:\Users\DELL\OneDrive\Desktop\Dictionary_App\dictionaryApp\obj\Debug\net8.0\refint\dictionaryApp.dll
+C:\Users\DELL\OneDrive\Desktop\Dictionary_App\dictionaryApp\obj\Debug\net8.0\dictionaryApp.xml
+C:\Users\DELL\OneDrive\Desktop\Dictionary_App\dictionaryApp\obj\Debug\net8.0\dictionaryApp.pdb
+C:\Users\DELL\OneDrive\Desktop\Dictionary_App\dictionaryApp\obj\Debug\net8.0\ref\dictionaryApp.dll

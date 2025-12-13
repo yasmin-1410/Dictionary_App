@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="dictapp">
+    <resource name="FSharpSignatureData.dictapp" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.dictapp" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.dictapp" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.dictapp" action="remove"></resource>
+    <resource name="FSharpOptimizationData.dictapp" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.dictapp" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.dictapp" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.dictapp" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.dictapp" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.dictapp" action="remove"></resource>
+  </assembly>
+</linker>
