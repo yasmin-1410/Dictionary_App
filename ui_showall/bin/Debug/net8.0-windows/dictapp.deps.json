@@ -8,18 +8,18 @@
     ".NETCoreApp,Version=v8.0": {
       "dictapp/1.0.0": {
         "dependencies": {
-          "FSharp.Core": "8.0.403",
+          "FSharp.Core": "10.0.100",
           "dictionaryApp": "1.0.0"
         },
         "runtime": {
           "dictapp.dll": {}
         }
       },
-      "FSharp.Core/8.0.403": {
+      "FSharp.Core/10.0.100": {
         "runtime": {
           "lib/netstandard2.1/FSharp.Core.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.4.324.52602"
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.1.25.52411"
           }
         },
         "resources": {
@@ -66,11 +66,11 @@
       },
       "dictionaryApp/1.0.0": {
         "dependencies": {
-          "FSharp.Core": "8.0.403"
+          "FSharp.Core": "10.0.100"
         },
         "runtime": {
           "dictionaryApp.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -83,12 +83,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "FSharp.Core/8.0.403": {
+    "FSharp.Core/10.0.100": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ldNIn4IksrJL/X3rF4R/y9pa3RmwkcGYQ3xFMdbJj8dJ9Q49J735m6sMy3MbCK9gj3YoCsxlyFeExCiNDy3gHQ==",
-      "path": "fsharp.core/8.0.403",
-      "hashPath": "fsharp.core.8.0.403.nupkg.sha512"
+      "sha512": "sha512-c/r6T/HE9MWL0O0OispLtaKhVwDsiYQlLS249LoxSo1HNH/wfc0f5DE4pI6WpTXkCEdeXa66K5f9FmKLr/0cmw==",
+      "path": "fsharp.core/10.0.100",
+      "hashPath": "fsharp.core.10.0.100.nupkg.sha512"
     },
     "dictionaryApp/1.0.0": {
       "type": "project",

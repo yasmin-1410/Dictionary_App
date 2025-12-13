@@ -1,26 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\pl3_Project\\dictionaryApp\\dictionaryApp.fsproj": {}
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Dictionary_App\\dictionaryApp\\dictionaryApp.fsproj": {}
   },
   "projects": {
-    "D:\\pl3_Project\\dictionaryApp\\dictionaryApp.fsproj": {
+    "C:\\Users\\DELL\\OneDrive\\Desktop\\Dictionary_App\\dictionaryApp\\dictionaryApp.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\pl3_Project\\dictionaryApp\\dictionaryApp.fsproj",
+        "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Desktop\\Dictionary_App\\dictionaryApp\\dictionaryApp.fsproj",
         "projectName": "dictionaryApp",
-        "projectPath": "D:\\pl3_Project\\dictionaryApp\\dictionaryApp.fsproj",
-        "packagesPath": "C:\\Users\\DEll\\.nuget\\packages\\",
-        "outputPath": "D:\\pl3_Project\\dictionaryApp\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\Dictionary_App\\dictionaryApp\\dictionaryApp.fsproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\Dictionary_App\\dictionaryApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DEll\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\sdk\\8.0.416\\FSharp\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\10.0.100\\FSharp\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -33,7 +33,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -42,7 +43,7 @@
             "FSharp.Core": {
               "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
               "target": "Package",
-              "version": "[8.0.403, )",
+              "version": "[10.0.100, )",
               "generatePathProperty": true
             }
           },
@@ -57,12 +58,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
